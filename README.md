@@ -26,7 +26,8 @@ meetup_id = "<optional meetup id goes here>"
 +++
 ```
 
-After that, it's just simple markdown. The site will auto-generate the rest.
+After that, it's just simple [markdown](https://www.markdownguide.org/cheat-sheet/). 
+The site will auto-generate the rest.
 
 ## Changing Site Data
 

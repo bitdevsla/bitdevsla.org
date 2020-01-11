@@ -5,7 +5,7 @@ Simple Zola site for hosting all of the links from meetups past and future.
 ## Development
 
 You'll need [Zola](https://www.getzola.org/documentation/getting-started/installation/) to run the
-site locally. Once they're setup:
+site locally. Once it is setup:
 
 * Clone the repository and go into the directory
 * Run `zola serve`
@@ -13,8 +13,8 @@ site locally. Once they're setup:
 
 ## Making a Post
 
-To make a new post, make a new file in `content` directory with a title of
-`YYYY-MM-DD-title-goes-here.md`. At the top of the file you'll want to provide the
+To make a new post, make a new file in the `content` directory with a title of
+`YYYY-MM-DD-title-goes-here.md`. At the top of the file you must provide the
 following information:
 
 ```md
@@ -35,4 +35,4 @@ All site configurations are contained in `config.toml`.
 ## Attributions
 
 Thanks to [BitDevs NYC](https://github.com/BitDevsNYC/BitDevsNYC.github.io) for the
-Jekyll site this site is based on.
+Jekyll site that this site is based on.

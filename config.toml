@@ -18,6 +18,6 @@ title = "BitDevs LA"
 [extra]
 # Put all your custom variables here
 
-github_url = "https://github.com"
+github_url = "https://github.com/bitdevs-la/bitdevs-la.org"
 menu = ["item1","item2","item3"]
 meetup = "https://www.meetup.com/SoCal-Lightning"

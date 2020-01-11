@@ -9,7 +9,7 @@ site locally. Once they're setup:
 
 * Clone the repository and go into the directory
 * Run `zola serve`
-* Go to http://localhost:1024
+* Go to http://localhost:1111
 
 ## Making a Post
 

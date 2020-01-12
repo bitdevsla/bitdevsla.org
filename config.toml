@@ -14,6 +14,7 @@ build_search_index = false
 generate_rss = true
 
 title = "BitDevs LA"
+description = "BitDevs LA is a community in the Los Angeles area for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
 [extra]
 # Put all your custom variables here

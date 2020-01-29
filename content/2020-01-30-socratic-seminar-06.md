@@ -23,7 +23,11 @@ meetup_id = "267972266"
 337 Charles E Young Dr E  
 Los Angeles, CA  ](https://www.google.com/maps/search/?api=1&query=34.074400%2C-118.439090)
 
-**How to find us**
+#### Parking  
+
+You can park at the UCLA Law school right next to the Public Affairs building
+
+#### How to find us
 
 Look for the Public Affairs Building Room #1246  
 
@@ -31,9 +35,10 @@ Look for the Public Affairs Building Room #1246
 
 We're excited to have Elizabeth Stark from Lightning Labs join us for a Q&A about Lightning! Elizabeth is a huge fan of open source, decentralized protocols. She taught at Stanford and Yale where her students studied peer-to-peer technology, privacy, open source software, and memes. She has been an active contributor to the bitcoin community, an advisor to startups in areas ranging from cryptocurrency to decentralized technology to AI, and is a fellow at Coin Center. She has a law degree from Harvard and is an avid listener of electronic music.
 
-## Guest Links
-<https://twitter.com/starkness>  
-<https://lightning.engineering>  
+### Guest Links
+
+[Starkness on Twitter](https://twitter.com/starkness)  
+[Lighntning Labs](https://lightning.engineering)  
 
 ### Socratic Seminar
 
@@ -47,15 +52,36 @@ A post will be made prior to the event which outlines discussion topics. Archive
 
 #### News
 
-  
-#### Stats
+- [lnd v0.9-beta](https://blog.lightning.engineering/announcement/2)  
+- [Square Crypto announces LDK](https://twitter.com/sqcrypto/status/1219669471369089024)  
+  - Will be based on rust-bitcoin projects
+- [RIP Tamás Blummer](https://bitcoinmagazine.com/articles/remembering-tamas-blummer-pioneering-bitcoin-developer)  
+  - Bitcoin developer since 2012
+  - founder of groundbreaking projects in rust-bitcoin and defiads
 
+#### Research
 
-#### New Work & Research
+- [Payswap](https://bitcoinmagazine.com/articles/how-payswap-can-confuse-blockchain-analysts-benefiting-bitcoin-privacy-for-all)  
 
+#### Statistics
+
+- [lightning](https://bitcoinvisuals.com/lightning)
+- [bitcoin](https://bitcoinvisuals.com/stats)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>
 
+- [Yubikey Secp256k1 support](https://github.com/bitcoin/bitcoin/issues/10112#issuecomment-572571428)   
+- Schnorr, Taproot, Tapscript  
+  - [Add BIPs 340-342](https://github.com/bitcoin/bips/pull/876)    
+  - [Bitcoin Magazine Article](https://bitcoinmagazine.com/articles/2020-and-beyond-bitcoins-potential-protocol-upgrades)    
+- [Miniscript on test framework](https://github.com/bitcoin/bitcoin/pull/17975)  
 
 #### Lightning PRs ⚡
+
+- [Fault tolerant databases for Lightning nodes](https://twitter.com/Snyke/status/1213180339767664641?s=20)  
+- [Keysend](https://github.com/lightningnetwork/lnd/pull/3795)  
+- [Add AMP record](https://github.com/lightningnetwork/lnd/pull/3957)
+- [Introduce database abstraction](https://github.com/lightningnetwork/lnd/pull/3833)  
+- [Disallow circular routes on same channel](https://github.com/lightningnetwork/lnd/pull/3915)  
+- [Consider HTLC sweep cost when going to chain](https://github.com/lightningnetwork/lnd/pull/3955)  
 

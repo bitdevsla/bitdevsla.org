@@ -52,7 +52,7 @@ A post will be made prior to the event which outlines discussion topics. Archive
 
 #### News
 
-- [lnd v0.9-beta](https://blog.lightning.engineering/announcement/2)  
+- [lnd v0.9-beta](https://blog.lightning.engineering/announcement/2020/01/21/lnd-v0.9.html)  
 - [Square Crypto announces LDK](https://twitter.com/sqcrypto/status/1219669471369089024)  
   - Will be based on rust-bitcoin projects
 - [RIP Tamás Blummer](https://bitcoinmagazine.com/articles/remembering-tamas-blummer-pioneering-bitcoin-developer)  

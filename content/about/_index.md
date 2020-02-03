@@ -50,4 +50,4 @@ Special thanks to to our ongoing sponsors who's donations help pay for venue ren
  <img src="/squarecrypto_logo.svg" alt="Square Crypto Logo" style="width:10%;height:10%;border:0;">
 </a>
  
-[Square Crypto](https://twitter.com/sqcrypto) - Designing Bitcoin for everyone.
+[Square Crypto](https://twitter.com/sqcrypto) - Helping make Bitcoin a widely used global currency.

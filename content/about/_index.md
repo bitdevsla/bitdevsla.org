@@ -34,7 +34,7 @@ of the project.
 
 ### Sponsors
 
-Special thanks to to our sponsors who's donations help pay for venue rental and other meetup expenses. 
+Special thanks to to our ongoing sponsors who's donations help pay for venue rental and other meetup expenses. 
 
 
 ![River Financial Logo](/riverfinancial.jpg)  

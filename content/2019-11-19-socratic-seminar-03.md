@@ -14,8 +14,9 @@ meetup_id = "266262499"
 
 ### Sponsors
 
-- [Alto Financial](https://alto.financial/)
-- [CENTRL Office](https://centrloffice.com/) was created to inspire people to do the best work of their lives. 
+[River Financial](https://www.river.com/) - The best place to buy, sell, and use Bitcoin for the long-term investor.
+
+[CENTRL Office](https://centrloffice.com/) was created to inspire people to do the best work of their lives. 
 They wanted to make a creative productive workspace that was comfortable like a pair of blue jeans. 
 One with the social feeling of a coffee house, the efficiency of a factory, and the service of a hotel. 
 A co-working space where people can do great good work. They call it CENTRL Office. 
@@ -33,14 +34,6 @@ Los Angeles, CA 90012
 $5 to park in the lots right next to CentrlOffice.
 
 ### Socratic Seminar
-
-Inspired by Bitdevs NY, this is an event for those interested in discussing and participating in the research and development of Bitcoin and related protocols. The Socratic Seminar events are formatted to foster debate, information sharing, and lively discussion.
-
-Discussion topics from a variety of sources are collated by meetup members in the weeks preceding the events. We investigate pull requests in the Bitcoin Core, lnd, and other relevant repositories; we study network statistics, research papers, technical blog posts and other interesting content. To complete the meeting, members present open source projects, companies, research and other relevant materials. A feedback and Q&A section follow.
-
-Please contact the organizers if you'd like to present at the Socratic event or have a recommended topic for discussion: ecurrencyhodler at gmail.
-
-A post will be made prior to the event which outlines discussion topics. Archives of discussion topics and presentations can be found in the event descriptions of past meetups. The discussion portion of the event is NEVER recorded. It is recommended that you have a firm grasp of the basics of Bitcoin in order to extract the most value from our Socratic events.
 
 #### Bitcoin News
 

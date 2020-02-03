@@ -31,3 +31,16 @@ Please contact the organizers if you'd like to present at a future Socratic
 event or have a recommended topic for discussion: `contact at bitdevsla.org`. 
 There are different requirements for presentations depending on the nature 
 of the project.
+
+### Sponsors
+
+Special thanks to to our sponsors who's donations help pay for venue rental and other meetup expenses. 
+
+
+![River Financial Logo](/riverfinancial.jpg)  
+[River Financial](https://river.com/) - The best place to buy, sell, and use Bitcoin for the long-term investor.
+<br>
+<br>
+
+![Square Crypto Logo](/squarecrypto.png)  
+[Square Crypto](https://twitter.com/sqcrypto) - Designing Bitcoin for everyone.

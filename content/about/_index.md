@@ -35,12 +35,19 @@ of the project.
 ### Sponsors
 
 Special thanks to to our ongoing sponsors who's donations help pay for venue rental and other meetup expenses. 
+<br>
+<br>
 
-
-![River Financial Logo](/riverfinancial.jpg)  
+<a href="https://river.com/">
+ <img src="/riverfinancial_logo.svg" alt="River Financial Logo" style="width:10%;height:10%;border:0;">
+</a>
+ 
 [River Financial](https://river.com/) - The best place to buy, sell, and use Bitcoin for the long-term investor.
 <br>
 <br>
 
-![Square Crypto Logo](/squarecrypto.png)  
+<a href="https://twitter.com/sqcrypto">
+ <img src="/squarecrypto_logo.svg" alt="Square Crypto Logo" style="width:10%;height:10%;border:0;">
+</a>
+ 
 [Square Crypto](https://twitter.com/sqcrypto) - Designing Bitcoin for everyone.

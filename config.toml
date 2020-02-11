@@ -20,5 +20,5 @@ description = "BitDevs LA is a community in the Los Angeles area for those inter
 # Put all your custom variables here
 
 github = "https://github.com/bitdevsla/bitdevsla.org"
-meetup = "https://www.meetup.com/SoCal-Lightning"
-twitter = "https://twitter.com/SoCalLightning"
+meetup = "https://www.meetup.com/BitDevsLA"
+twitter = "https://twitter.com/BitDevsLA"

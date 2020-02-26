@@ -55,12 +55,6 @@ Beyond, a product design studio that worked with Google Store, Google Cloud, and
 
 - [Congestion Attacks in Payment Channel Networks](https://medium.com/@ayelem02/congestion-attacks-in-payment-channel-networks-b7ac37208389
 )
-  - Lightning nodes pay themselves. They select the longest route to tie up as much liquidity as possible by not accepting the payment. They were able to tie up the liquidity in the network with less than 0.5 BTC.
-    - You can also attack a single hub’s by tying up their liquidity (much smaller attack) and routing back to yourself through the same hub. 
-  - Lnd recently changed cltv delta default from 144 to 40. Max cltv is 2016 (2 weeks). Can add more hops with 40 delta as a LN payment can go up to the max cltv. 
-  - Mitigation: 
-    - Higher routing fees to increase cost of attack.
-    - Enforcing fast HTLC resolution. If a node doesn’t forward secret fast, penalize them by closing the channel. 
 - [Upgradeable Channel Commitments](https://twitter.com/ecurrencyhodler/status/1232379435849961472
 )
 
@@ -70,12 +64,7 @@ Beyond, a product design studio that worked with Google Store, Google Cloud, and
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>
 
-- Adding Rust Lightning to Bitcoin Core
-  - <https://github.com/bitcoin/bitcoin/pull/18179>
-    - Concern about the added work to maintain Core.
-    - Increased vulnerabilities to Core.
-    - Advantage is long-term viability on mobile (android and iPhone). 
-      - Android and iPhone forks processes but the phone itself manages each process. So bitcoind and c-lightning is run separately. If Bitcoind starts taking up a ton of memory, the phone will kill it.
+- [Adding Rust Lightning to Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/18179)
 - [GUI: PSBT save and load](https://github.com/bitcoin/bitcoin/pull/17509)
 
 #### Lightning PRs ⚡

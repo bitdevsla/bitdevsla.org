@@ -10,7 +10,7 @@ meetup_id = "268301778"
 7:00 Networking  
 7:15 Mark 'Murch' Erhardt  
 7:45 Socratic Seminar  
-8:45 Clean Up  
+8:45 Wrap-up  
 
 ### Sponsors
 
@@ -23,13 +23,13 @@ month to month, no contract. ([on Twitter](https://twitter.com/indiedesk))
 
 ### Location
 
-[Indie Desk  
-333 S Grand Ave #3310  
-Los Angeles, CA  ](https://www.google.com/maps/search/?api=1&query=34.052933%2C-118.251880)
+ONLINE! This meeting will be held via video conference. 
 
-#### Parking  
+Join via the [Bluejeans desktop or mobile app](https://www.bluejeans.com/downloads) and use meeting id: *521284108*.
 
-Parking can be difficult in DTLA. If you park in the parking structure at 330 S Hope Street, Indie Desk will give you a $10 parking voucher after 5pm.
+OR 
+
+Join from your browser with this link: <https://bluejeans.com/521284108>
 
 ### Guest Speaker
 

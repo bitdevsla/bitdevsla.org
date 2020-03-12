@@ -25,7 +25,7 @@ month to month, no contract. ([on Twitter](https://twitter.com/indiedesk))
 
 ONLINE! This meeting will be held via video conference. 
 
-Join via the [Bluejeans desktop or mobile app](https://www.bluejeans.com/downloads) and use meeting id: *521284108*.
+Join via the [Bluejeans desktop or mobile app](https://www.bluejeans.com/downloads) and use meeting id: *521 284 108*.
 
 OR 
 

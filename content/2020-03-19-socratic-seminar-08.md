@@ -7,7 +7,7 @@ meetup_id = "268301778"
 
 ### Agenda
 
-7:00 Networking  
+7:00 Networking (in meeting chat window)  
 7:15 Mark 'Murch' Erhardt  
 7:45 Socratic Seminar  
 8:45 Wrap-up  

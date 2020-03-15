@@ -25,11 +25,8 @@ month to month, no contract. ([on Twitter](https://twitter.com/indiedesk))
 
 ONLINE! This meeting will be held via video conference. 
 
-Join via the [Zoom desktop or mobile app](https://zoom.us/download) and use meeting id: *777 216 473*.
-
-OR 
-
-Join from your browser with this link: <https://zoom.us/j/777216473>
+Join via Google Hangouts from your browser with this link:
+ <https://hangouts.google.com/call/kEfUm4-si3-R6spkxaWLAEEE>
 
 ### Guest Speaker
 

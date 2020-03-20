@@ -26,7 +26,7 @@ month to month, no contract. ([on Twitter](https://twitter.com/indiedesk))
 ONLINE! This meeting will be held via video conference. 
 
 Join via Google Hangouts from your browser with this link:
- <https://hangouts.google.com/call/kEfUm4-si3-R6spkxaWLAEEE>
+ <https://meet.google.com/rey-covj-chf>
 
 ### Guest Speaker
 

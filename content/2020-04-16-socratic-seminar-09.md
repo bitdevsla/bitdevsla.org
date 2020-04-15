@@ -40,12 +40,13 @@ Join us as we host Amiti Uttarwar who is a Bitcoin Core Contributor at Xapo.
 #### News
 
    - [Running a Great Socratic Seminar](https://bitdevs.org/running-a-great-socratic-seminar/)
+   - [Vault prototype released](https://www.coindesk.com/bitcoin-vaults-developer-bryan-bishop-releases-prototype-for-secure-on-chain-storage)
 
 #### Research
 
-   - CoinShares: [Why Bitcoin Miners Will Keep Mining](https://coinsharesgroup.com/insights/why-bitcoin-miners-will-keep-mining)
-     - TLDR: Mining death spirals exist only in theory, not in practice. Paper includes an edge case where the author tries to come up with a scenario in which a death spiral could happen.
-
+   - [CoinShares: Why Bitcoin Miners Will Keep Mining](https://coinsharesgroup.com/insights/why-bitcoin-miners-will-keep-mining)
+   - [LSAT](https://lightning.engineering/posts/2020-03-30-lsat/)
+   
 #### Bitcoin Dev
 
    - [bitcoin-dev BIP 340 updates: even pubkeys, more secure nonce generation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-February/017639.html)
@@ -55,12 +56,13 @@ Join us as we host Amiti Uttarwar who is a Bitcoin Core Contributor at Xapo.
 #### Bitcoin PRs <font color="#FF9900">₿</font>
 
    - [#17156 PSBT: check that various indexes and amounts are within bounds](https://github.com/bitcoin/bitcoin/pull/17156)
+      - [Fuzzing](https://github.com/bitcoin/bitcoin/blob/master/doc/fuzzing.md)
    - [#16528 Native Descriptor Wallets using DescriptorScriptPubKeyMan](https://github.com/bitcoin/bitcoin/pull/16528)
-
-#### Lightning Dev
-
-   - 
+      - [Bitcoin Descriptors Page](https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md)
+      - [Optech Descriptors Page](https://bitcoinops.org/en/topics/output-script-descriptors/)
+      - [Blockstream Miniscript History](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620)
 
 #### Lightning PRs ⚡ 
 
-   - 
+   - [Watch only addresses and managers (lnd)](https://github.com/btcsuite/btcwallet/pull/667)
+   - [CoinMoves (c-lightning)](https://github.com/ElementsProject/lightning/pull/3614)

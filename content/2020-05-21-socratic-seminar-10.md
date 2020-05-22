@@ -28,7 +28,7 @@ Join via Google Hangouts from your browser with this link: <https://meet.google.
 
 Join us for another Socratic Seminar via [Google Hangouts](https://meet.google.com/fuj-dgbq-cqw)! This month we have 
 Alekos Filini who is the main developer behind the [Magical Bitcoin](https://magicalbitcoin.org/) project and also a 
-contributor to other notable bitcoin projects such [Elements](https://github.com/ElementsProject) and the 
+contributor to other notable bitcoin projects such as [Elements](https://github.com/ElementsProject) and the 
 [LNP/BP](https://github.com/LNP-BP) standard library. The [Magical Bitcoin](https://github.com/MagicalBitcoin) 
 project aims to build a collection of tools and libraries that are designed to be a solid foundation for Bitcoin 
 wallets, along with a fully working reference implementation wallet.

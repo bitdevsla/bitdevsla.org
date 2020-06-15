@@ -22,11 +22,11 @@ meetup_id = "270812619"
 
 ONLINE! This meeting will be held via video conference. 
 
-Join via Google Hangouts from your browser with this link: <TBD>
+Join via Zoom with this link: <https://zoom.us/j/91757188185?pwd=TDFXem92NXBjQ2ludFRlLzRiVlhDQT09>
 
 ### Details
 
-Join us for another Socratic Seminar via Google Hangouts! This month we have Luke Dashjr who is a Bitcoin Core developer 
+Join us for another Socratic Seminar via Zoom! This month we have Luke Dashjr who is a Bitcoin Core developer 
 and the person who proposed a solution to implementing Segregated Witness(SegWit) as a soft-fork.
 
 He will be covering the recently discovered SegWit vulnerability that Trezor disclosed in this 

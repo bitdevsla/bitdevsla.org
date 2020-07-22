@@ -41,10 +41,10 @@ full time on Bitcoin key management in the context of a Square Crypto grant.
 #### News  
 
    - [Kraken hands out grant to BTCPayBitcoin fees and mempool](https://twitter.com/krakenfx/status/1276144362389254144?s=20)
-   - Flurry of SqCrypto Grants
-     - Steve - BDK
-     - Christoph - Bitcoin Design Grant
-     - Vasil - Bitcoin Privacy
+   - Flurry of [SqCrypto](https://twitter.com/sqcrypto) Grants
+     - Steve - [BDK](https://twitter.com/sqcrypto/status/1281269625901256718)
+     - Christoph - [Bitcoin Design Grant](https://twitter.com/sqcrypto/status/1278356152036634626)
+     - Vasil - [Bitcoin Privacy](https://twitter.com/sqcrypto/status/1277633234227134464)
    - [Grayscale reports over $905.8 MM invested in Q2 alone](https://grayscale.co/insights/grayscale-q2-2020-digital-asset-investment-report/)
    - [Massive Twitter hack. Attacker requests Bitcoin](https://twitter.com/winklevoss/status/1283858480680632321?s=20)
    - [Bitcoin Design Community Launched](https://twitter.com/sqcrypto/status/1275877403743662082)

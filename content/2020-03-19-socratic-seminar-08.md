@@ -3,6 +3,7 @@ title = "Mark 'Murch' Erhardt and Bitcoin Socratic Seminar #8"
 template = "post.html"
 [extra]
 meetup_id = "268301778"
+youtube_id = "zYrBrSHCPCY"
 +++
 
 ### Agenda

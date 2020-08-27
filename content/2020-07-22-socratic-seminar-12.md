@@ -3,6 +3,7 @@ title = "Tankred Hase and Bitcoin Socratic Seminar #12"
 template = "post.html"
 [extra]
 meetup_id = "271520867"
+youtube_id = "N1c_AJg2jkY"
 +++
 
 ### Agenda  

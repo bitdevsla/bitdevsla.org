@@ -3,6 +3,7 @@ title = "RGB Lightning and Bitcoin Socratic Seminar #13"
 template = "post.html"
 [extra]
 meetup_id = "272339225"
+youtube_id = "Mkidb0wjua0"
 +++
 
 ### Agenda  

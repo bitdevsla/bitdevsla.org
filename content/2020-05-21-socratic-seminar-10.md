@@ -3,6 +3,7 @@ title = "Alekos Filini and Bitcoin Socratic Seminar #10"
 template = "post.html"
 [extra]
 meetup_id = "270003487"
+youtube_id = "QVhC2DOIl7I"
 +++
 
 ### Agenda

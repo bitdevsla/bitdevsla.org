@@ -3,6 +3,7 @@ title = "Amiti Uttarwar and Bitcoin Socratic Seminar #9"
 template = "post.html"
 [extra]
 meetup_id = "269265962"
+youtube_id = "8TaY730YlMg"
 +++
 
 ### Agenda

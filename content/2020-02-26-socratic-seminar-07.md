@@ -3,6 +3,7 @@ title = "Will Reeves and Bitcoin Socratic Seminar #7"
 template = "post.html"
 [extra]
 meetup_id = "268296785"
+youtube_id = "pNYtLCm6GRI"
 +++
 
 ### Agenda

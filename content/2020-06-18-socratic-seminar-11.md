@@ -3,6 +3,7 @@ title = "Luke Dashjr and Bitcoin Socratic Seminar #11"
 template = "post.html"
 [extra]
 meetup_id = "270812619"
+youtube_id = "CojixIMgg3c"
 +++
 
 ### Agenda  

@@ -30,7 +30,8 @@ the basics of Bitcoin in order to extract the most value from our Socratic event
 Please contact the organizers if you'd like to present at a future Socratic
 event or have a recommended topic for discussion: `contact at bitdevsla.org`. 
 There are different requirements for presentations depending on the nature 
-of the project.
+of the project. Check our list of suggestions for 
+[where to find topics](/about/find-topics) for future seminars.
 
 ### Sponsors
 

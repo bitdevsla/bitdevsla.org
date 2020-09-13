@@ -63,4 +63,4 @@ web. CTO Christophe studied Computer Science and has experience working in block
 
 #### Lightning PRs ⚡ 
 
-  - 
+  - [Advanced macaroons 1/2: Custom URI permissions (lnd #4463)](https://github.com/lightningnetwork/lnd/issues/4463)

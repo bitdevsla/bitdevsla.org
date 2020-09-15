@@ -47,13 +47,14 @@ web. CTO Christophe studied Computer Science and has experience working in block
 #### News  
 
   - [Bitcoin Core 0.20.1 Release](https://bitcoincore.org/en/2020/08/01/release-0.20.1/)
-    - PSBT and blocklist
+  - [Bitcoin Core GUI](https://diyhpl.us/wiki/transcripts/bitcoin-design/2020-08-20-bitcoin-core-gui/)
   - [Wasabi DOS Vulnerability Disclosed After It’s Been Fixed](https://www.btctimes.com/news/wasabi-wallet-discloses-dos-vulnerability)
   - [BTC Times: "The Top 5 Lightning Games in 2020"](https://www.btctimes.com/news/the-top-5-lightning-games-in-2020)
+  - [MintGox](https://mintgox.com) on [Google Play](https://play.google.com/store/apps/details?id=com.thndrgames.bitcoinbounce&hl=en)
 
 #### Research  
 
-  - [Transactions Propagation Design Goals](https://github.com/bitcoin/bitcoin/issues/19820)
+  - 
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 

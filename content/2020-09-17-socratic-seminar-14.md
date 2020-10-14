@@ -3,7 +3,7 @@ title = "Satotious, Lightning Paywalls, and Bitcoin Socratic Seminar #14"
 template = "post.html"
 [extra]
 meetup_id = "272542211"
-youtube_id = ""
+youtube_id = "aw5PJfXtIkE"
 +++
 
 ### Agenda  

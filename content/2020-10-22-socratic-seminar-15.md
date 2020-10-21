@@ -46,23 +46,26 @@ new era of multi-sig applications.
 
 #### News  
 
-  - [Bitcoin Core 0.20.1 Release](https://bitcoincore.org/en/2020/08/01/release-0.20.1/)
-  - [Bitcoin Core GUI](https://diyhpl.us/wiki/transcripts/bitcoin-design/2020-08-20-bitcoin-core-gui/)
-  - [Wasabi DOS Vulnerability Disclosed After It’s Been Fixed](https://www.btctimes.com/news/wasabi-wallet-discloses-dos-vulnerability)
-  - [Top 5 Lightning Games of 2020](https://www.btctimes.com/news/the-top-5-lightning-games-in-2020)
-  - [MintGox](https://mintgox.com)
-    - [on Google Play](https://play.google.com/store/apps/details?id=com.thndrgames.bitcoinbounce&hl=en)
+  - [Square buys Bitcoin](https://twitter.com/SquareIR/status/1314190152663617536)
+  - [US Patent 7,110,538 has expired](https://bitcoinops.org/en/newsletters/2020/09/30/)
+  - [GLV Endomorphism Improvement Statistics in Bitcoin Core](https://twitter.com/jamesob/status/1318225518836256770)
+  - [Schnorr added to Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/19953)
+  - [Coinbase Sponsoring Bittcoin Dev’s](https://twitter.com/coinbase/status/1316801517983334401)
+  - [Bitmex Charged with Money Laundering](https://www.btctimes.com/news/bitmex-owners-charged-with-illegally-operating--crypto-trading-platform)
 
 #### Research  
 
-  - 
+  - [DOS attack of a Lightning Node](https://twitter.com/joostjgr/status/1308414364911841281)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
-  - [Schnorr Added to LIBSECP256K1 (core #558)](https://github.com/bitcoin-core/secp256k1/pull/558)
-  - [Update secp256k1 subtree (including BIP340 support) (core #19944)](https://github.com/bitcoin/bitcoin/pull/19944)
-  - [BIP-325: Signet [consensus] (core #18267)](https://github.com/bitcoin/bitcoin/pull/18267)
+  - [Only relay Taproot spends if next block has it active (core 20165)](https://github.com/bitcoin/bitcoin/pull/20165)
+  - [BIP325: Signet (core 18267)](https://github.com/bitcoin/bitcoin/pull/18267)
 
 #### Lightning PRs ⚡ 
 
-  - [Advanced macaroons 1/2: Custom URI permissions (lnd #4463)](https://github.com/lightningnetwork/lnd/issues/4463)
+  - [Plugin messaging (eclair 1528)](https://github.com/ACINQ/eclair/pull/1528)
+  - [\[ChannelRelay\] Prioritize lowest capacity channels (eclair 1539)](https://github.com/ACINQ/eclair/pull/1539)
+  - [walletrpc: add new PSBT creation+signing RPCs (lnd 4389)](https://github.com/lightningnetwork/lnd/pull/4389)
+  - Updating signet chainparams for the latest PoW fix (c-lightning [4068](https://github.com/ElementsProject/lightning/pull/4068) and [4078](https://github.com/ElementsProject/lightning/pull/4078))
+

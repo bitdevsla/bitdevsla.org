@@ -8,9 +8,9 @@ youtube_id = ""
 
 ### Agenda  
 
-7:00 AM Networking (in meeting chat window)  
-7:15 AM Speaker Presentation  
-7:45 AM Socratic Seminar  
+7:00 PM Networking (in meeting chat window)  
+7:15 PM Speaker Presentation  
+7:45 PM Socratic Seminar  
 8:45 PM Wrap-up  
 
 ### Sponsor  

@@ -11,7 +11,7 @@ youtube_id = "Mkidb0wjua0"
 11:00 AM Networking (in meeting chat window)  
 11:15 AM Speaker Presentation  
 11:45 AM Socratic Seminar  
-12:45 PM Wrap-up  
+12:45 AM Wrap-up
 
 ### Sponsor  
 

@@ -3,7 +3,7 @@ title = "SuredBits, DLCs, and Bitcoin Socratic Seminar #15"
 template = "post.html"
 [extra]
 meetup_id = "273333623"
-youtube_id = ""
+youtube_id = "_EtUSZ76rFI"
 +++
 
 ### Agenda  

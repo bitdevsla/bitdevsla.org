@@ -3,7 +3,7 @@ title = "Clark Moody & Bitcoin Socratic Seminar #16"
 template = "post.html"
 [extra]
 meetup_id = "274561404"
-youtube_id = ""
+youtube_id = "kB6VAzULhX0"
 +++
 
 ### Agenda  

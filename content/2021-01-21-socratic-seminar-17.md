@@ -40,20 +40,29 @@ next generation protocol for pooled mining.
 
 #### News  
 
-  - 
+  - [New bitcoin metrics dashboard](https://bitbo.io/)
+  - [Bitcoin 0.21 release candidate testing](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/0.21-Release-Candidate-Testing-Guide)
+  - BDK [0.2](https://bitcoindevkit.org/blog/2020/12/release-v0.2.0/) and [0.3](https://bitcoindevkit.org/blog/2021/01/release-v0.3.0/) released 
+  - [Traditional Institutions Allocating to Bitcoin](https://www.bloomberg.com/news/articles/2020-12-10/169-year-old-insurer-massmutual-invests-100-million-in-bitcoin)
+  - [Kraken Lightning Network](https://www.coindesk.com/kraken-exchange-integrate-bitcoin-lightning-2021)
+  - [Square Green Energy Bitcoin Fund](https://www.businesswire.com/news/home/20201208005461/en)
+  - [Taproot Activation](https://taprootactivation.com/)
 
 #### Research  
 
-  - 
+  - [Bech32m BIP](https://github.com/sipa/bips/blob/bip-bech32m/bip-bech32m.mediawiki)
+  - [Recovery of Lightning Channels without Backups](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-December/002907.html)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
-  - 
+  - [Implement Bech32m and use it for v1+ segwit addresses #20861](https://github.com/bitcoin/bitcoin/pull/20861)
+  - [External Signer Support](https://github.com/bitcoin/bitcoin/pull/16546)
 
 #### Lightning PRs ⚡ 
 
-  - 
-  
+  - [Trampoline Routing 2021](https://github.com/lightningnetwork/lightning-rfc/pull/829)
+  - [LN Offers](https://github.com/ElementsProject/lightning/issues/4255)
+
 [gh]:https://github.com/danielabrozzoni
 [bo]:https://braiins.com/
 [bdk]:https://github.com/bitcoindevkit

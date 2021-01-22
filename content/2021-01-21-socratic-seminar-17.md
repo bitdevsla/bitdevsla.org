@@ -21,7 +21,7 @@ long-term investor. Use this link for 2 months of 0 fees: <https://river.com/sig
  ### Location  
 
 ONLINE! This meeting will be held via video conference.  
-[Google Meet Link](https://meet.google.com/tbr-qjyk-ndv)
+[Google Meet Link](https://meet.google.com/zfz-nxfv-qth)
 
 ### Details  
 

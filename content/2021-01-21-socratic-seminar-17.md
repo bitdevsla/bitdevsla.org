@@ -3,7 +3,7 @@ title = "Daniela Brozzoni & Bitcoin Socratic Seminar #17"
 template = "post.html"
 [extra]
 meetup_id = "275503247"
-youtube_id = ""
+youtube_id = "BHU4YPuAHdY"
 +++
 
 ### Agenda  

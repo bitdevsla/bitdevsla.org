@@ -43,12 +43,26 @@ stack, though his interest lies with distributed systems and peer-to-peer techno
 
 #### News
 
+- [TSLA buys $1.5 billion in Bitcoin](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)
+- [Lightning Pool](https://lightning.engineering/pool/)
+- [BTC Crossing $1T Marketcap](https://www.cnbc.com/2021/02/19/bitcoin-hits-1-trillion-in-market-value-as-cryptocurrency-surge-continues.html)
+- [Microstrategy “Bitcoin for Corporations”](https://www.microstrategy.com/en/resources/events/world-2021/bitcoin-summit)
+- [Lummis on Banking Committee](https://www.theblockcrypto.com/post/93806/bitcoin-senator-cynthia-lummis-added-banking-committee)
+
 #### Research  
+
+- [BIP 85, specification for creating keys and keychains from a super BIP32 keychain](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki)
+- [BIP for Multisig Hardware Wallets](https://github.com/nunchuk-io/bips/pull/1)
+- [Utreexo](https://twitter.com/BitMEXResearch/status/1356363578228486146?s=20)
+- [Taproot 10 MM of 10 MM musig multisig](https://twitter.com/n1ckler/status/1356640993232236544?s=20)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
+- [Erlay: bandwidth-efficient transaction relay protocol (core #18261)](https://github.com/bitcoin/bitcoin/pull/18261)
+
 #### Lightning PRs ⚡ 
 
+- [multi: support master/derived public key import (lnd #5047)](https://github.com/lightningnetwork/lnd/pull/5047)
 
 [gh]:https://github.com/cloudhead
 [Alexis Sellier]:https://cloudhead.io/

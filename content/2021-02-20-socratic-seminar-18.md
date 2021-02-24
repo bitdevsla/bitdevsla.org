@@ -3,7 +3,7 @@ title = "Alexis Sellier & Bitcoin Socratic Seminar #18"
 template = "post.html"
 [extra]
 meetup_id = "276016935"
-youtube_id = ""
+youtube_id = "JYBm4mo2nDs"
 +++
 
 ### Agenda  

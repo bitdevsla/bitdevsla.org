@@ -38,19 +38,25 @@ on-chain/off-chain mobile Bitcoin wallet.
 
 #### News
 
-- 
+- [Sources of energy for Bitcoin mining thread](https://twitter.com/MustafaYilham/status/1371026225871785984?s=20)
+- [First Taproot script-path spend on signet](https://twitter.com/pwuille/status/1365520967221448707?s=20)
+- [Bitcoin 2021 Miami](https://b.tc/conference) Who’s going?
+
 
 #### Research  
 
-- 
+- [New HWI 2.0 Spec](https://github.com/bitcoin-core/HWI/releases/tag/2.0.0)
+- [Channel Factories](https://bitcoin.stackexchange.com/questions/67158/what-are-channel-factories-and-how-do-they-work)
+- [Security and Privacy of Lightning Network Payments with Uncertain Channel Balances](https://arxiv.org/abs/2103.08576v1)
+
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
-- 
+- [btctipserver last_unused #13](https://github.com/lvaccaro/btctipserver/pull/13)
 
 #### Lightning PRs ⚡ 
 
-- 
+- [Dual-funded channels](https://github.com/ElementsProject/lightning/pull/4410)
 
 [github]:https://github.com/esneider
 [Dario Sneidermanis]:https://twitter.com/esneider

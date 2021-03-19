@@ -2,7 +2,7 @@
 title = "Dario Sneidermanis & Bitcoin Socratic Seminar #19"
 template = "post.html"
 [extra]
-meetup_id = ""
+meetup_id = "276819311"
 youtube_id = ""
 +++
 

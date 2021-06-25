@@ -3,7 +3,7 @@ title = "Nadav Kohen & Bitcoin Socratic Seminar #21"
 template = "post.html"
 [extra]
 meetup_id = "278812637"
-youtube_id = ""
+youtube_id = "a3rsFRLUQK0"
 +++
 
 ### Agenda  

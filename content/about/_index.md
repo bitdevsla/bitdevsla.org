@@ -43,7 +43,7 @@ Special thanks to to our ongoing sponsors who's donations help pay for venue ren
  <img src="/riverfinancial_logo.svg" alt="River Financial Logo" style="width:10%;height:10%;border:0;">
 </a>
  
-[River Financial](https://river.com/) - The best place to buy, sell, and use Bitcoin for the long-term investor.
+[River Financial](https://river.com/?a=BGQP7DXO) - The best place to buy, sell, and use Bitcoin for the long-term investor.
 <br>
 <br>
 

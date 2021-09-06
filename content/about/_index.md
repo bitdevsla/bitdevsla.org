@@ -35,7 +35,7 @@ of the project. Check our list of suggestions for
 
 ### Sponsors
 
-Special thanks to to our ongoing sponsors who's donations help pay for venue rental and other meetup expenses. 
+Special thanks to to our ongoing sponsor who's donations help pay for venue rental and other meetup expenses. 
 <br>
 <br>
 
@@ -46,9 +46,3 @@ Special thanks to to our ongoing sponsors who's donations help pay for venue ren
 [River Financial](https://river.com/?a=BGQP7DXO) - The best place to buy, sell, and use Bitcoin for the long-term investor.
 <br>
 <br>
-
-<a href="https://twitter.com/sqcrypto">
- <img src="/squarecrypto_logo.svg" alt="Square Crypto Logo" style="width:10%;height:10%;border:0;">
-</a>
- 
-[Square Crypto](https://twitter.com/sqcrypto) - Helping make Bitcoin a widely used global currency.

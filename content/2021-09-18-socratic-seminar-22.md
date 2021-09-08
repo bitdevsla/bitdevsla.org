@@ -8,7 +8,7 @@ youtube_id = ""
 
 ### Agenda  
 
-2:30 PM Networking (in meeting chat window)  
+2:30 PM Networking    
 2:45 PM Speaker Presentation  
 3:15 PM Socratic Seminar  
 4:30 PM Wrap-up  

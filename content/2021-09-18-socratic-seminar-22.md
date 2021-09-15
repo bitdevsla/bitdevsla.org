@@ -47,16 +47,29 @@ BitSwarm uses Bitcoin, Lightning, and BitTorrent to create a decentralized marke
 
 #### News
 
-- [Bitcoin 2022](http://tixr.com/pr/Bitdevsla/26217) | April 6 -> April 9, 2022 | Miami Beach, FL
+- [Bitcoin 2022 | April 6 -> April 9, 2022 | Miami Beach](http://tixr.com/pr/Bitdevsla/26217)
+  - promo code *BITDEVSLA*
+- [Bech32 & Bech32m adoption](https://en.bitcoin.it/wiki/Bech32_adoption)
+- [Summer of Bitcoin](https://summerofbitcoin.org/)
+- [Bitcoin Core 0.22 Released](https://bitcoincore.org/en/releases/22.0/)
 
 #### Research  
 
-- TBD
+- [Lightning Network Search and Analysis Engine](https://1ml.com/location/us/ca/los-angeles)
+- [Progress of public Taproot support nodes](https://luke.dashjr.org/programs/bitcoin/files/charts/taproot.html)
+- [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
-- TBD
+- [Wallet: Decide which coin selection solution to use based on waste metric (core #22009)](https://github.com/bitcoin/bitcoin/pull/22009) 
+  - [bitcoincore.reviews](https://bitcoincore.reviews/22009)
+- [Document about wallet backup and restoration (core #22523)](https://github.com/bitcoin/bitcoin/pull/22523)
+  - [managing-wallets.md](https://github.com/bitcoin/bitcoin/blob/master/doc/managing-wallets.md)
+- [Release: Release with separate SHA256SUMS and sig files (core #22642)](https://github.com/bitcoin/bitcoin/pull/22642/files)
+  - [Issue with new instructions (core #22965)](https://github.com/bitcoin/bitcoin/issues/22965#issuecomment-918574263)
+
 
 #### Lightning PRs ⚡ 
 
-- TBD
+- [WIP: Support remote signing over RPC (lnd #5689)](https://github.com/lightningnetwork/lnd/pull/5689)
+- [Update closing_signed fee requirement (lightning-rfc #847)](https://github.com/lightningnetwork/lightning-rfc/pull/847)

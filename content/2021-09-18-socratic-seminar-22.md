@@ -3,7 +3,7 @@ title = "Bitswarm & Bitcoin Socratic Seminar #22"
 template = "post.html"
 [extra]
 meetup_id = "280489972"
-youtube_id = ""
+youtube_id = "s1tgrvnrUMg"
 +++
 
 ### Agenda  

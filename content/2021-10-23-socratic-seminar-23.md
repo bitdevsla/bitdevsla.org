@@ -52,6 +52,7 @@ The workshop will then be followed by a Socratic Seminar and then we will get di
 
 - [Taproot Privacy and Output Linking](https://bitcoinops.org/en/preparing-for-taproot/#output-linking)
 - [Bitcoin Core Performance Improvements](https://twitter.com/pwuille/status/1450471673321381896?s=21)
+- [Bitcoin Core Process Separation](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Process-Separation)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 

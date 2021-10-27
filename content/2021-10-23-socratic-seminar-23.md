@@ -3,7 +3,7 @@ title = "Bitcoin Full Node Workshop & Bitcoin Socratic Seminar #23"
 template = "post.html"
 [extra]
 meetup_id = "281129301"
-youtube_id = ""
+youtube_id = "kzM9CgC0gdY"
 +++
 
 ### Agenda  

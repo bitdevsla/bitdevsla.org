@@ -54,18 +54,18 @@ Please note that we are meeting at a different location this time! It will be at
 
 #### Research  
 
-- [A Mobile Lightning User Goes to Pay a Mobile Lightning User](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003307.html)
-- [LN Summit 2021 Notes & Summary/Commentary](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-November/003336.html)
-
+- [A Mobile Lightning User Goes to Pay a Mobile Lightning User](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003307.html)\
+- [LN Summit 2021 Notes & Summary/Commentary](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-November/003336.html)\
+- [Preventing Channel Jamming](https://blog.bitmex.com/preventing-channel-jamming/)\
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
-- [Add Pay to Taproot - BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib/pull/1742)
-- [rpc: Return fee and prevout (utxos) to getrawtransaction (core #23319)](https://bitcoincore.reviews/23319)[github](https://github.com/bitcoin/bitcoin/pull/23319)
+- [Add Pay to Taproot - BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib/pull/1742)\
+- [rpc: Return fee and prevout (utxos) to getrawtransaction (core #23319)](https://bitcoincore.reviews/23319)[github](https://github.com/bitcoin/bitcoin/pull/23319)\
 - [validation: mempool validation and submission for packages of 1 child + parents (core #22674)](https://github.com/bitcoin/bitcoin/pull/22674)
 
 #### Lightning PRs ⚡ 
 
 
-- [Allow skipping PsbtFinalize step during channel funding to support external broadcast](https://github.com/lightningnetwork/lnd/pull/5363)
-- [Implement channel_type negotiation (rust-lightning #1078)](https://github.com/rust-bitcoin/rust-lightning/pull/1078)
+- [Allow skipping PsbtFinalize step during channel funding to support external broadcast](https://github.com/lightningnetwork/lnd/pull/5363)\
+- [Implement channel_type negotiation (rust-lightning #1078)](https://github.com/rust-bitcoin/rust-lightning/pull/1078)\

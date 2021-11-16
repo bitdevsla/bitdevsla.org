@@ -47,15 +47,18 @@ Please note that we are meeting at a different location this time! It will be at
 #### News
 
 - [Taproot Activation in block 709632](https://mempool.space/block/0000000000000000000687bca986194dc2c1f949318629b44bb54ec0a94d8244)  
-- [“gm taproot"](https://mempool.space/tx/2eb8dbaa346d4be4e82fe444c2f0be00654d8cfd8c4a9a61b11aeaab8c00b272)  
-- [What is taproot?](https://river.com/learn/what-is-taproot/)  
+  - [“gm taproot"](https://mempool.space/tx/2eb8dbaa346d4be4e82fe444c2f0be00654d8cfd8c4a9a61b11aeaab8c00b272)  
+  - [What is taproot?](https://river.com/learn/what-is-taproot/)  
 - [Bitcoin hits ATH’s at $68,000](https://twitter.com/BitcoinMagazine/status/1457916692638674949)  
 - [Multisig saves South African man from losing Bitcoin](https://www.reddit.com/r/Bitcoin/comments/qrqzyu/multisig_saves_south_african_man_from_losing/)  
 
 #### Research  
 
--- Lightning Network Stats - 
-[[1ML](https://1ml.com)][[Amboss](https://amboss.space)][[fiatjaf](https://ln.fiatjaf.com)][[LNnodeinsight](https://lnnodeinsight.com/)]  
+- Lightning Network Stats
+  - [1ML](https://1ml.com)
+  - [Amboss](https://amboss.space)
+  - [fiatjaf](https://ln.fiatjaf.com)
+  - [LNnodeinsight](https://lnnodeinsight.com/)  
 - [A Mobile Lightning User Goes to Pay a Mobile Lightning User](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003307.html)  
 - [LN Summit 2021 Notes & Summary/Commentary](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-November/003336.html)  
 - [Preventing Channel Jamming](https://blog.bitmex.com/preventing-channel-jamming/)  
@@ -64,14 +67,13 @@ Please note that we are meeting at a different location this time! It will be at
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
-- [Add Pay to Taproot - BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib/pull/1742)  
-- [rpc: Return fee and prevout (utxos) to getrawtransaction (core #23319)](https://bitcoincore.reviews/23319)[github](https://github.com/bitcoin/bitcoin/pull/23319)  
-- [validation: mempool validation and submission for packages of 1 child + parents (core #22674)](https://github.com/bitcoin/bitcoin/pull/22674)  
+- "feat: add support for pay to taproot" (bitcoinjs [#1742](https://github.com/bitcoinjs/bitcoinjs-lib/pull/1742))
+- "\[test\] add tests to verify support for sending to bech32m address" (bdk [#402](https://github.com/bitcoindevkit/bdk/pull/402))
+- "validation: mempool validation and submission for packages ..." (core [#22674](https://github.com/bitcoin/bitcoin/pull/22674))  
 
 #### Lightning PRs ⚡ 
 
 
-- [Allow skipping PsbtFinalize step during channel funding to support external broadcast](https://github.com/lightningnetwork/lnd/pull/5363)  
-- [Implement channel_type negotiation (rust-lightning #1078)](https://github.com/rust-bitcoin/rust-lightning/pull/1078)  
-- Postgres on LND - 
-[[link1](https://github.com/lightningnetwork/lnd/pull/5366)][[link2](https://github.com/lightningnetwork/lnd/pull/5561)]
+- "Allow skipping PsbtFinalize step during channel funding ..." (lnd [#5363](https://github.com/lightningnetwork/lnd/pull/5363))  
+- "Implement channel_type negotiation" (rust-lightning [#1078](https://github.com/rust-bitcoin/rust-lightning/pull/1078))  
+- "kvdb: add postgres" and "kvdb: migrate data ..." (lnd [#5366](https://github.com/lightningnetwork/lnd/pull/5366) [#5561](https://github.com/lightningnetwork/lnd/pull/5561))

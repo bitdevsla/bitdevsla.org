@@ -54,9 +54,13 @@ Please note that we are meeting at a different location this time! It will be at
 
 #### Research  
 
+-- Lightning Network Stats - 
+[[1ML](https://1ml.com)][[Amboss](https://amboss.space)][[fiatjaf](https://ln.fiatjaf.com)][[LNnodeinsight](https://lnnodeinsight.com/)]  
 - [A Mobile Lightning User Goes to Pay a Mobile Lightning User](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003307.html)  
 - [LN Summit 2021 Notes & Summary/Commentary](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-November/003336.html)  
 - [Preventing Channel Jamming](https://blog.bitmex.com/preventing-channel-jamming/)  
+- [Lightning & the Internet: Choosing the Right Path](https://medium.com/breez-technology/lightning-the-internet-choosing-the-right-path-bedfa6382316)  
+- [Stateless invoices with proof-of-payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-September/003236.html)  
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
 
@@ -69,3 +73,5 @@ Please note that we are meeting at a different location this time! It will be at
 
 - [Allow skipping PsbtFinalize step during channel funding to support external broadcast](https://github.com/lightningnetwork/lnd/pull/5363)  
 - [Implement channel_type negotiation (rust-lightning #1078)](https://github.com/rust-bitcoin/rust-lightning/pull/1078)  
+- Postgres on LND - 
+[[link1](https://github.com/lightningnetwork/lnd/pull/5366)][[link2](https://github.com/lightningnetwork/lnd/pull/5561)]

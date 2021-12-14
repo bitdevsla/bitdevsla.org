@@ -3,7 +3,7 @@ title = "André from Zebedee and Bitcoin Socratic Seminar #24"
 template = "post.html"
 [extra]
 meetup_id = "281812106"
-youtube_id = ""
+youtube_id = "i4g795_floI"
 +++
 
 ### Agenda  

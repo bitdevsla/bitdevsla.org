@@ -46,3 +46,11 @@ Special thanks to to our ongoing sponsor who's donations help pay for venue rent
 [River Financial](https://river.com/?a=BGQP7DXO) - The best place to buy, sell, and use Bitcoin for the long-term investor.
 <br>
 <br>
+
+<a href="https://keys.casa/">
+ <img src="/casa_logo.svg" alt="Casa Logo" style="width:10%;height:10%;border:0;">
+</a>
+
+[Casa](https://app.keys.casa/subscribe/gold) - The safest way to store your bitcoin. Get $21 off a gold plan using code:bitdevsla  
+<br>
+<br>

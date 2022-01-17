@@ -48,13 +48,27 @@ The talk will then be followed by a Socratic Seminar and then we will get drinks
 
 #### News
 
+- [Jack Dorsey to Launch Bitcoin Legal Defense Fund](https://bitcoinmagazine.com/business/jack-dorsey-to-launch-bitcoin-legal-defense-fund)  
+- [Chainalysis Launches Support for Lightning Network](https://blog.chainalysis.com/reports/lightning-network-support/)  
+  - [Current State of Lightning Network Privacy](https://abytesjourney.com/lightning-privacy/)
+  - [Using Lightning description hashes](https://twitter.com/niftynei/status/1479154453777465344)
+
 
 #### Research  
-
-
+- [Efficient Reusable Taproot Addresses](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
+- [DSN Bitcoin Network Monitoring](https://www.dsn.kastel.kit.edu/bitcoin)
 #### Bitcoin PRs <font color="#FF9900">₿</font>  
-
-
+- "p2p: Add DISABLETX message for negotiating block-relay-only connections" (core [#20726](https://github.com/bitcoin/bitcoin/pull/20726))
+- "p2p: Erlay support signaling" (core [#23443](https://github.com/bitcoin/bitcoin/pull/23443))  
+  - What is Erlay?  
+    - Erlay is a proposal to improve the bandwidth efficiency of relaying unconfirmed transactions between Bitcoin full nodes.  
+    - Erlay is a two-part proposal that first limits the number of peers to which a node will directly advertise transactions (default: 8) and, second, uses set reconciliation based on libminisketch with the remainder of its peers to avoid sending the txid of any transactions that the receiving peer has already seen.  
+    - This proposal focuses on part 2. A node receives a sketch. They create their own sketch. They compare the two sketches and see a difference. Then they request the txns from the difference to relay. That way it doesn’t have to re-request or broadcast redundant txns.  
+  - Example of a soft-fork without requiring consensus agreement.  
+    - 2 levels to soft-forks  
+      - Block validation
+      - Txn relay
+	
 #### Lightning PRs ⚡ 
 
 

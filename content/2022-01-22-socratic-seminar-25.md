@@ -58,5 +58,5 @@ The talk will then be followed by a Socratic Seminar and then we will get drinks
 - "p2p: Erlay support signaling" (core [#23443](https://github.com/bitcoin/bitcoin/pull/23443))
 	
 #### Lightning PRs ⚡ 
-
+- "BOLT 7: Onion message support (features 38/39)" (bolts [#759](https://github.com/lightning/bolts/pull/759))
 

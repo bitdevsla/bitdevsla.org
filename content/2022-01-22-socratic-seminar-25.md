@@ -3,7 +3,7 @@ title = "Multisig Wallets, Casa, and Bitcoin Socratic Seminar #25"
 template = "post.html"
 [extra]
 meetup_id = "282351102"
-youtube_id = ""
+youtube_id = "qqhR71onPRI"
 +++
 
 ### Agenda  

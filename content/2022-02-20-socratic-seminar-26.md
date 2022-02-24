@@ -3,7 +3,7 @@ title = "Steve Lee, Spiral, and Bitcoin Socratic Seminar #26"
 template = "post.html"
 [extra]
 meetup_id = "283369179"
-youtube_id = ""
+youtube_id = "kQg_6XSzZo0"
 +++
 
 ### Agenda

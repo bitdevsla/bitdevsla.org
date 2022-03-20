@@ -40,7 +40,7 @@ Bitcoiners.
 
 This month we have the pleasure of hosting Steve Myers. Steve is a local bitcoiner and former, 
 long-time enterprise Java developer. Two years ago, with a grant from Square Crypto (now Spiral) 
-he became a full time bitcoin open source contributor, working primarily on the [Bitcoin Dev Kit(BDK)] (https://bitcoindevkit.org) project. 
+he became a full time bitcoin open source contributor, working primarily on the [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org) project. 
 Steve will give an update on what's new for BDK and what he's focusing on this year for his BDK work.
 
 
@@ -49,7 +49,7 @@ restaurant after.
 
 ### Guest Speakers
 
-[Steve Myers](https://twitter.com/notmandatory) - Open source Contributor primarily on [BDK](https://bitcoindekit.org)
+[Steve Myers](https://twitter.com/notmandatory) - Open source Contributor on [BDK](https://github.com/bitcoindevkit)
 
 ### Socratic Seminar
 

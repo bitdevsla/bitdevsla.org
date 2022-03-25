@@ -56,16 +56,21 @@ restaurant after.
 
 #### News
 
-
+- Use code `Bitdevsla` for Bitcoin2022!
+- [Wasabi censoring txns](https://bitcoinmagazine.com/business/wasabi-wallet-explains-new-bitcoin-censorship)
+- [Hubspot security breach leaks bitcoin users data](https://bitcoinmagazine.com/business/hubspot-security-breach-leaks-bitcoin-users-data)
 
 #### Research
 
-
+- [Recurring payments with DLC’s](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020035.html)
+- ["A Layperson's Guide to Discreet Log Contracts (Atomic Yield Series, Part 3)"](https://atomic.finance/blog/a-laypersons-guide-to-discreet-log-contracts-atomic-yield-series-part-3/)
+- [Lightning/bolts, Lightning Specification Meeting 2022/03/14 (#969)](https://github.com/lightning/bolts/issues/969)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>
 
-
+- [BDK, add OldestFirstCoinSelection (#557)](https://github.com/bitcoindevkit/bdk/pull/557)
+- [BDK, Add support for custom sorting and deprecate BIP69 (#556)](https://github.com/bitcoindevkit/bdk/pull/556)
 
 #### Lightning PRs ⚡ 
 
-
+- [LDK, Support for SCID Aliases (#1311)](https://github.com/lightningdevkit/rust-lightning/pull/1311)

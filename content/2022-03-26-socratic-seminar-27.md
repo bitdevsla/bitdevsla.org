@@ -3,13 +3,13 @@ title = "Steve Myers, Bitcoin Dev Kit, & Bitcoin Socratic Seminar #27"
 template = "post.html"
 [extra]
 meetup_id = "283979583"
-youtube_id = ""
+youtube_id = "ydfrRl5n5-8"
 +++
 
 ### Agenda
 
 5:00pm Pizza and beers  
-5:30pm Speaker  
+5:30pm Speaker ([slides](https://docs.google.com/presentation/d/1Z0bqcef5mpUprPPH5HNewCg3WQfMU5bmngeqW2IjMPs/edit?usp=sharing))  
 6:00pm Socratic Seminar  
 7:00pm Wrap-up  
 7:15pm Food/Drinks at a local bar

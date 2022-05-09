@@ -3,7 +3,7 @@ title = "Andy Edstrom, Bitcoin's Potential Value: A 10 Yr View #28"
 template = "post.html"
 [extra]
 meetup_id = "284961827"
-youtube_id = ""
+youtube_id = "WWBhS21zwsg"
 +++
 
 ### Agenda

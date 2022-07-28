@@ -53,16 +53,21 @@ Richard is a long-time software developer who made the transition to Bitcoin and
 
 #### News
 
-- TBD
+- [Robinhood announces support for bech32 addresses](https://robinhood.com/us/en/support/articles/cryptocurrency-wallets/#Supportedaddressformatsforcryptowithdrawals)
+- [Pacific Bitcoin Conference](https://www.pacificbitcoin.la/) (Code: BITDEVSLA 20% OFF)
+- [TAB Conf, Oct 12-15, Atlanta, GA](https://2022.tabconf.com/)
 
 #### Research
 
-- TBD
+- Is Bitcoin’s txn fee-based security enough?
+  - [Tail emission isn’t inflationary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020665.html)
+  - [Fee snipping](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020702.html)
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>
 
-- TBD
+- rpc, wallet: Scan mempool after import* - Second attempt (core [#25351](https://github.com/bitcoin/bitcoin/pull/25351))
+- Miniscript support in Output Descriptors (core [#24148](https://github.com/bitcoin/bitcoin/pull/24148))
 
 #### Lightning PRs ⚡ 
 
-- TBD
+- add Schnorr signatures to sign and verify message (LND [#6722](https://github.com/lightningnetwork/lnd/pull/6722))

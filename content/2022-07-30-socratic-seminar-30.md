@@ -8,11 +8,11 @@ youtube_id = "0L_ylLNw5wc"
 
 ### Agenda
 
-3:00pm Pizza and beers  
-3:30pm Speaker  
-4:00pm Socratic Seminar  
-5:00pm Wrap-up  
-5:15pm Drinks at a local bar  
+1:00pm Pizza and beers  
+1:30pm Speaker  
+2:00pm Socratic Seminar  
+3:00pm Wrap-up  
+3:15pm Drinks at a local bar  
 
 ### Sponsor
 

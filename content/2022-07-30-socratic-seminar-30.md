@@ -3,7 +3,7 @@ title = "Peerswap, Richard Myers, & Bitcoin Socratic Seminar #30"
 template = "post.html"
 [extra]
 meetup_id = "286743290"
-youtube_id = ""
+youtube_id = "0L_ylLNw5wc"
 +++
 
 ### Agenda

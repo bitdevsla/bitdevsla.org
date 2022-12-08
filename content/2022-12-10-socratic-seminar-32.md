@@ -44,13 +44,20 @@ We'll also follow up the fireside chat with another Socratic Seminar.
 ### Socratic Seminar
 
 #### News
-
+- [The largest downwards $BTC mining difficulty adjustment since the summer of 2021 occurred this week, -7.3%](https://twitter.com/DylanLeClair_/status/1600169694320656388?s=20&t=rauIR8fyIrmPY3R5SF4L1g) 
+- [200,000 #Bitcoin worth $3.4 billion were removed from exchanges in the last 30 days 🙌](https://twitter.com/BitcoinMagazine/status/1600124094590353408?s=20&t=rauIR8fyIrmPY3R5SF4L1g) 
 
 #### Research
+- [Rapid Gossip Sync](https://lightningdevkit.org/blog/announcing-rapid-gossip-sync/) 
+- Channel jamming
+    - [Lightning-dev mailing list](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html) 
+    - [Bitcoin Optech Newsletter #226](https://bitcoinops.org/en/newsletters/2022/11/16/)
+- [Lightning Privacy](https://lightningprivacy.com/en/introduction) 
 
 
 #### Bitcoin PRs <font color="#FF9900">₿</font>
-
+- [Bitcoin Core 24.0 RC3 and default RBF](https://bitcoincore.org/bin/bitcoin-core-24.0/) 
 
 #### Lightning PRs ⚡ 
+
 

@@ -23,7 +23,7 @@ gold plan using the promo code: bitdevsla
 
 ### Location
 Backroom of the Village Idiot  
-[3651 Trousdale Pkwy, Los Angeles, CA](https://www.google.com/maps/search/?api=1&query=34.0838%2C%20-118.35095)  
+[7383 Melrose Ave Los Angeles, CA 90046](https://www.google.com/maps/search/?api=1&query=34.0838%2C%20-118.35095)  
 
 
 ### Details

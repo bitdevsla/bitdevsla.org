@@ -3,7 +3,7 @@ title = "Jestopher from Amboss + Socratic Seminar #32"
 template = "post.html"
 [extra]
 meetup_id = "289360315"
-youtube_id = ""
+youtube_id = "https://youtu.be/Xxu7v3iubJ4"
 +++
 
 ### Agenda

@@ -39,18 +39,10 @@ Special thanks to to our ongoing sponsor who's donations help pay for venue rent
 <br>
 <br>
 
-<a href="https://river.com/">
- <img src="/riverfinancial_logo.svg" alt="River Financial Logo" style="width:10%;height:10%;border:0;">
+<a href="https://voltage.cloud/">
+ <img src="/Voltage-Logo-Drk-RGB.svg" alt="Voltage Logo" style="width:20%;height:20%;border:0;">
 </a>
  
-[River Financial](https://river.com/?a=BGQP7DXO) - The best place to buy, sell, and use Bitcoin for the long-term investor.
-<br>
-<br>
-
-<a href="https://keys.casa/">
- <img src="/casa_logo.svg" alt="Casa Logo" style="width:10%;height:10%;border:0;">
-</a>
-
-[Casa](https://app.keys.casa/subscribe/gold) - The safest way to store your bitcoin. Get $21 off a gold plan using code:bitdevsla  
+[Voltage](https://voltage.cloud/) empowers engineers with the tools to integrate Bitcoin and Lightning Network payments into their business stack with an enterprise-grade experience. Get complete control with insanely fast onboarding, advanced client-side encryption, and zero management infrastructure making backups, networking, and upgrades simple. Get a free 7 day trial today at voltage.cloud
 <br>
 <br>

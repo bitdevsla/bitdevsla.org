@@ -56,6 +56,13 @@ A post will be made prior to the event which outlines discussion topics. Archive
 - [LukeDashJr lost over 200 BTC](https://twitter.com/LukeDashjr/status/1609613748364509184)
   - [Peter Todd Response](https://twitter.com/peterktodd/status/1609655629903265795)
 
+#### Meetup Links
+- [Main Slides](https://docs.google.com/presentation/d/12CaOd6F_0VyMrMCZ6ZNrUFVe8RstTE2G-52hfa2Y3Os/edit?usp=sharing)
+- [Nostr 101 Presentation](https://docs.google.com/presentation/d/1schtxgubYnRNji58ldtVFZ8AVhL1QgNR_1alS2bHNqo/edit?usp=sharing)
+- [Mempool Stats](https://jochen-hoenicke.de/queue/#BTC,3m,weight)
+- [Taproot 1%](https://twitter.com/taproot_signal/status/1604250474894557185)
+- [MMP Solo Miner](https://mobile.twitter.com/BraiinsInsights/status/1603082802328731649)
+- [LN Routing Update](https://twitter.com/alexbosworth/status/1609217848416604163)
   
 [Voltage]: https://voltage.cloud/
 

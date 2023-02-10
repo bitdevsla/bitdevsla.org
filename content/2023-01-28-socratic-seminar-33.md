@@ -3,7 +3,7 @@ title = "André Neves from ZEBEDEE + Socratic Seminar #33"
 template = "post.html"
 [extra]
 meetup_id = "290836095"
-youtube_id = ""
+youtube_id = "YMfsiXfbJd8"
 +++
 
 ### Agenda

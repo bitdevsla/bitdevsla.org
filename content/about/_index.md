@@ -40,9 +40,17 @@ Special thanks to to our ongoing sponsor who's donations help pay for venue rent
 <br>
 
 <a href="https://voltage.cloud/">
- <img src="/Voltage-Logo-Drk-RGB.svg" alt="Voltage Logo" style="width:20%;height:20%;border:0;">
+ <img src="/Voltage-Logo-Drk-RGB.svg" alt="Voltage Logo" style="width:30%;height:30%;border:0;">
 </a>
  
 [Voltage](https://voltage.cloud/) empowers engineers with the tools to integrate Bitcoin and Lightning Network payments into their business stack with an enterprise-grade experience. Get complete control with insanely fast onboarding, advanced client-side encryption, and zero management infrastructure making backups, networking, and upgrades simple. Get a free 7 day trial today at voltage.cloud
+<br>
+<br>
+
+<a href="https://www.lightspark.com/">
+ <img src="/lightspark_logo.svg" alt="Lightspark Logo" style="width:30%;height:30%;border:0;">
+</a>
+ 
+[Lightspark](https://www.lightspark.com/)  builds enterprise-ready infrastructure for the Lightning Network delivering open payments for the Internet at scale. Lightspark services aim to be the fastest, lowest cost, easiest and most reliable way to send and receive payments globally with exceptionally low fees, using Lightning.
 <br>
 <br>

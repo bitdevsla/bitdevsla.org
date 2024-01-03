@@ -38,15 +38,6 @@ of the project. Check our list of suggestions for
 Special thanks to to our ongoing sponsor who's donations help pay for venue rental and other meetup expenses. 
 <br>
 <br>
-
-<a href="https://voltage.cloud/">
- <img src="/Voltage-Logo-Drk-RGB.svg" alt="Voltage Logo" style="width:30%;height:30%;border:0;">
-</a>
- 
-[Voltage](https://voltage.cloud/) empowers engineers with the tools to integrate Bitcoin and Lightning Network payments into their business stack with an enterprise-grade experience. Get complete control with insanely fast onboarding, advanced client-side encryption, and zero management infrastructure making backups, networking, and upgrades simple. Get a free 7 day trial today at voltage.cloud
-<br>
-<br>
-
 <a href="https://www.lightspark.com/">
  <img src="/lightspark_logo.svg" alt="Lightspark Logo" style="width:30%;height:30%;border:0;">
 </a>

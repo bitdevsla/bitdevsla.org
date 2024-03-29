@@ -1,17 +1,17 @@
 +++
-title = "Jeremy Klein, Universal Money Address, and Socratic Seminar #43"
+title = "Deepak, Mining During the Halvening, and Socratic Seminar #44"
 template = "post.html"
 [extra]
-meetup_id = "299322306"
+meetup_id = "299661637"
 youtube_id = ""
 +++
 
 ### Agenda
 
-3:00pm Networking  
-3:30pm Jeremy Klein  
-4:15 Socratic Seminar led by Jonathan R. Matos  
-5:00pm Drinks at Fathers Office  
+2:30pm Networking  
+3:00pm Deepak on mining  
+3:30pm Socratic Seminar  
+4:40pm Drinks at Fathers Office  
 
 ### Sponsor
 
@@ -23,7 +23,9 @@ Join us for another amazing Bitcoin meetup!
 
 If you have topics you'd like to discuss or would like to present on a topic, reach out to us on twitter @[bitdevsla](https://twitter.com/bitdevsla)!
 
-This month we will host a Socratic Seminar led by Jonathan Matos. We'll also be joined by [Jeremy Klein](https://twitter.com/jeremylklein) from [Lightspark](https://www.lightspark.com/) who'll be leading a discussion around the Universal Money Address schema.
+We will be hosting [Deepak](https://twitter.com/Chocoboiiii) from Hashbranch as a guest speaker. He will be diving into what mining could look like in 2024 and beyond as well as strategies and conversations around enabling profitability for emerging miners.
+
+We will also host a Socratic Seminar led by Andrew Yang.
 
 
 
@@ -36,11 +38,11 @@ This month we will host a Socratic Seminar led by Jonathan Matos. We'll also be 
 
 ### Speakers Info
 
-[Jeremy Klein](https://twitter.com/jeremylklein) - Engineer @[Lightspark](https://www.lightspark.com/)
+ [Deepak](https://twitter.com/Chocoboiiii) from Hashbranch
 
 ### Socratic Host Details
- Jonathan R. Matos - Electrical Engineer @ PearlX
 
+ Andrew Yang
 
 ### Socratic Seminar
 Inspired by Bitdevs NY, this is an event for those interested in discussing and participating in the research and development of Bitcoin and related protocols. The Socratic Seminar events are formatted to foster debate, information sharing, and lively discussion.
